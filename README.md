@@ -3,7 +3,5 @@ In this Python project idea, we are going to build an exciting project through w
 There  are two types of programs one has user interface the other is simple python program.
 Prerequisites
 The project in Python requires you to have basic knowledge of python programming and the pygame library.
-
 To install the pygame library, type the following code in your terminal.
-
 pip install pygame
